@@ -15,7 +15,7 @@ I also recorded the simulation in action and uploaded the videos in the `Videos`
 
 ## Wokwi Simulation
 If you want to try it out directly, here’s the placeholder link to the Wokwi project:  
-[Wokwi Project Link](https://wokwi.com/projects/placeholder](https://wokwi.com/projects/434553002466603009)
+[Wokwi Project Link][https://wokwi.com/projects/placeholder](https://wokwi.com/projects/434553002466603009)
 
 ## How it works
 1. Pin 13 on the Arduino is set as an output  
